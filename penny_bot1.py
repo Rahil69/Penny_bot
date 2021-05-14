@@ -8,7 +8,7 @@ import COVID19Py
 covid19 = COVID19Py.COVID19()
 client = commands.Bot(command_prefix='=')
 
-token = 'ODQyMTY0MDYyNzYyMDQxMzc0.YJxUZw.s1hedY7N0Tw62mTSSgDCcDa9f0c'
+token = ''
 
 
 #LOG IN
