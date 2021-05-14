@@ -1,3 +1,2 @@
 # Penny_bot
-Penny bot
-ok
+Random discord bot cause why not
